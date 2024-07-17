@@ -1,11 +1,9 @@
-package cucumber.testng.selenium;
+package cucumber.testng.selenium.clase_1;
 
-import cucumber.testng.selenium.pages.InventoryPage;
-import cucumber.testng.selenium.pages.LoginPage;
+import cucumber.testng.selenium.clase_1.pages.InventoryPage;
+import cucumber.testng.selenium.clase_1.pages.LoginPage;
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;

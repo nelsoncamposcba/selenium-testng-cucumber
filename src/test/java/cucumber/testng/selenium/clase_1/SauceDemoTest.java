@@ -1,4 +1,4 @@
-package cucumber.testng.selenium;
+package cucumber.testng.selenium.clase_1;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
